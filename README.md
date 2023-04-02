@@ -1,6 +1,7 @@
 # Fantasy Cycling
 
 Windows Forms app for using your exercise bike for game inputs.
+![Finished app](https://cdn.discordapp.com/attachments/963695606914768906/1092052906502524999/fantasyCycling.png)
 
 ## Getting Started
 
